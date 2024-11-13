@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cloud-foundation-fabric
+  annotations:
+    github.com/project-slug: ranger-zero/cloud-foundation-fabric
+spec:
+  type: other
+  lifecycle: unknown
+  owner: ranger-zero
